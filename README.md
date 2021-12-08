@@ -4,19 +4,19 @@ My name is Trần Tiến Hưng, my foreign name is John ConstanReed, but you can
 
 > 🔭 I'm currently a third-year student of University of Information Technology UIT-VNU-HCM.
 
-> ⚡ My major is Computer Science and I'm working my way to becoming a data analystic.
+> ⚡ My major is Computer Science, and my goal is to becoming a data analystic.
 
 > 🔭 My programming language are: Python, C++, Assembly, JavaScripts, HTML, Bash/Shell Linux.
 
 > ⚡ Query languages: Microsoft SQL server.
 
-> 🔭 These are several IDE which I’ve been working with such as Visual Studio, MySQL Server, CodeBlocks, PyCharm, Sublime-Text.
+> 🔭 These are several IDE which I’ve been working with such as Visual Studio, Microsoft SQL Server, CodeBlocks, PyCharm, Sublime-Text.
 
 > ⚡ I'm currently working on Java, Deep Learning.
 
 > 🔭 I have intermediate skill about Microsoft Word, Excel.
 
-> ⚡ I have been working with multiple Machine Learning medthods, combine with reading papers and self reimplement those techniques, expecially the ones related to Computer Vision, NLP.
+> ⚡ I have been working with multiple Machine Learning medthods, combine with reading papers and performe self-reimplementation of those techniques, expecially the ones related to Computer Vision, NLP.
 
 📫 **You can contact me via:**
 
