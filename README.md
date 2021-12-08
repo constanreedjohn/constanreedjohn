@@ -2,17 +2,21 @@
 
 My name is Trần Tiến Hưng, my foreign name is John ConstanReed, but you can call me Hưng or John for short.
 
-> 🔭 I'm currently a second-year student of University of Information Technology VNU-HCM.
+> 🔭 I'm currently a third-year student of University of Information Technology UIT-VNU-HCM.
 
 > ⚡ My major is Computer Science and I'm working my way to becoming a data analystic.
 
-> 🔭 I have experience with Python, C++, My SQL Server, MySQL, Assembly.
+> 🔭 My programming language are: Python, C++, Assembly, JavaScripts, HTML, Bash/Shell Linux.
 
-> ⚡ These are several IDE which I’ve been working with such as Visual Studio, MySQL Server, CodeBlocks.
+> ⚡ Query languages: Microsoft SQL server.
 
-> 🔭 I'm currently working on Java, JavaScript, BashShell, HTML, Deep Learning.
+> 🔭 These are several IDE which I’ve been working with such as Visual Studio, MySQL Server, CodeBlocks, PyCharm, Sublime-Text.
 
-> ⚡ I have achieved basic Machine Learing, Assembly MARS, Data Structure and Algorithms.
+> ⚡ I'm currently working on Java, Deep Learning.
+
+> 🔭 I have intermediate skill about Microsoft Word, Excel.
+
+> ⚡ I have been working with multiple Machine Learning medthods, combine with reading papers and self reimplement those techniques, expecially the ones related to Computer Vision, NLP.
 
 📫 **You can contact me via:**
 
