@@ -2,33 +2,25 @@
 
 My name is Trần Tiến Hưng, my foreign name is John ConstanReed, but you can call me Hưng or John for short.
 
-> 🔭 I'm currently a third-year student of University of Information Technology UIT-VNU-HCM.
+> 🔭 I'm currently a senior student of University of Information Technology UIT-VNU-HCM.
 
-> ⚡ My major is Computer Science, and my goal is to becoming a data analystic.
+> ⚡ My major is Computer Science, and I am currently an AI Engineer specialized in Computer Vision.
 
-> 🔭 My programming language are: Python, C++, Assembly, JavaScripts, HTML, Bash/Shell Linux.
+> 🔭 My programming language are: Python, C++, JavaScripts, HTML, Bash/Shell, Linux.
 
-> ⚡ Query languages: Microsoft SQL server.
+> ⚡ Query languages: Microsoft SQL server, MySQL.
 
-> 🔭 These are several IDE which I’ve been working with such as Visual Studio, Microsoft SQL Server, CodeBlocks, PyCharm, Sublime-Text.
+> 🔭 I'm currently working on Computer Vision, Deep Learning.
 
-> ⚡ I'm currently working on Java, Deep Learning.
-
-> 🔭 I have intermediate skill about Microsoft Word, Excel.
-
-> ⚡ I have been working with multiple Machine Learning medthods, combine with reading papers and performe self-reimplementation of those techniques, expecially the ones related to Computer Vision, NLP.
+> ⚡ My goal is to contribute my work to the Computer Vision field, build and research new methods and deploy models to be able to apply real-time performance.
 
 📫 **You can contact me via:**
 
 🌱	E-mail: constanreedjohn@gmail.com
 
-🌱	Kaggle: https://www.kaggle.com/johnconstanreed
-
 🌱	Github: https://github.com/constanreedjohn
 
 🌱	LinkedIn: https://www.linkedin.com/in/h%C6%B0ng-tr%E1%BA%A7n-ti%E1%BA%BFn-544b3720b/
-
-🌱	Trello: https://trello.com/trntinhng
 
 🌱	Facebook: https://www.facebook.com/john.constanreed/
 
