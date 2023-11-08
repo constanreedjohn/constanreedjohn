@@ -6,25 +6,19 @@ My name is Trần Tiến Hưng, my foreign name is John ConstanReed, but you can
 
 > ⚡ My major is Computer Science, and I am currently an AI Engineer specialized in Computer Vision.
 
-> 🔭 My programming language are: Python, C++, JavaScripts, HTML, Bash/Shell, Linux.
+> 🔭 I'm currently working on Computer Vision, Deep Learning, NLP, LLM, Domain Adaptation.
 
-> ⚡ Query languages: Microsoft SQL server, MySQL.
-
-> 🔭 I'm currently working on Computer Vision, Deep Learning.
-
-> ⚡ My goal is to contribute my work to the Computer Vision field, build and research new methods and deploy models to be able to apply real-time performance.
+> ⚡ My goal is to contribute my work to the Computer Science research communnity along with applying models to the industry environment.
 
 📫 **You can contact me via:**
 
 🌱	E-mail: constanreedjohn@gmail.com
 
-🌱	Github: https://github.com/constanreedjohn
-
-🌱	LinkedIn: https://www.linkedin.com/in/h%C6%B0ng-tr%E1%BA%A7n-ti%E1%BA%BFn-544b3720b/
+🌱	LinkedIn: https://www.linkedin.com/in/hung-tran-tien-544b3720b/
 
 🌱	Facebook: https://www.facebook.com/john.constanreed/
 
-🌱	Tele: +84 0938 16 10 95
+🌱	Tele: +84 938 161 095
 
 
 <!--
