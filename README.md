@@ -2,13 +2,13 @@
 
 My name is Trần Tiến Hưng, my foreign name is John ConstanReed, but you can call me Hưng or John for short.
 
-> 🔭 I'm currently a senior student of University of Information Technology UIT-VNU-HCM.
+> 🔭 I graduated with a Bachelor degree in Computer Science at the University of Information Technology Vietnam National University UIT-VNU-HCM.
 
-> ⚡ My major is Computer Science, and I am currently an AI Engineer specialized in Computer Vision.
+> ⚡ I'm specialized in Computer Vision, NLP, LLMs and other AI/ML application. I also do research in my free time as well.
 
-> 🔭 I'm currently working on Computer Vision, Deep Learning, NLP, LLM, Domain Adaptation.
+> 🔭 I'm currently working on LLMs, System Design, RAG and other SWE application.
 
-> ⚡ My goal is to contribute my work to the Computer Science research communnity along with applying models to the industry environment.
+> ⚡ My research field includes but not limited to Domain Adaptaion, ASR, OCR, Diffusion, PeFT, Language Adaptation, Quantization, Transformers.
 
 📫 **You can contact me via:**
 
@@ -17,8 +17,6 @@ My name is Trần Tiến Hưng, my foreign name is John ConstanReed, but you can
 🌱	LinkedIn: https://www.linkedin.com/in/hung-tran-tien-544b3720b/
 
 🌱	Facebook: https://www.facebook.com/john.constanreed/
-
-🌱	Tele: +84 938 161 095
 
 
 <!--
